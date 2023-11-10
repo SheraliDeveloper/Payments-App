@@ -61,7 +61,7 @@ let USERS = [
     firstName: "Elyor",
     lastName: "Xudoyorov",
     username: "Elyordev",
-    password: "ELyor005",
+    password: "Elyor005",
     card: {
       cardTaype: "Visa",
       balans: 90000,
